@@ -985,11 +985,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.07.28-18.13.09:287][126]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.07.28-18.14.53:627][437]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.07.28-18.15.31:096][ 71]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
-[2025.07.28-18.15.59:277][165]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
-[2025.07.28-18.16.20:299][109]BlueprintLog: New page: Compile BP_HaroChar
-[2025.07.28-18.16.20:389][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
-[2025.07.28-18.16.20:965][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HaroChar" FILE="../../../../../../Users/Tema/Documents/Unreal Projects/Game/Content/HeroChar/BP_HaroChar.uasset" SILENT=true
-[2025.07.28-18.16.21:028][133]LogSavePackage: Moving '../../../../../../Users/Tema/Documents/Unreal Projects/Game/Saved/BP_HaroCharA722A78D425F1F8787FAACB68E5E36E4.tmp' to '../../../../../../Users/Tema/Documents/Unreal Projects/Game/Content/HeroChar/BP_HaroChar.uasset'
-[2025.07.28-18.16.21:048][133]AssetCheck: New page: Asset Save: BP_HaroChar
-[2025.07.28-18.16.21:048][133]LogContentValidation: Display: Validating Blueprint /Game/HeroChar/BP_HaroChar.BP_HaroChar
-[2025.07.28-18.16.28:250][334]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
