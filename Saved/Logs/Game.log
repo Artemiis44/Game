@@ -2351,3 +2351,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.08.04-09.47.23:520][939]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
 [2025.08.04-09.47.24:021][939]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
 [2025.08.04-09.47.24:522][939]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
+[2025.08.04-09.47.25:022][939]LogHttp: Display: Sleeping 0.500s to wait for 2 outstanding Http requests.
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9929278C-4709-6EF4-BE9A-429A3B9C4DC4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=25b364574f2c348f767357a854b35719%7C44a5037eb42945baa540b2e55b724ebd%7Cea3791cf-1ebc-4115-ad5e-a4b92b126695&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 0 (  Trying 3.220.168.144...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 1 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 2 (connect to 3.220.168.144 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 3 (  Trying 18.235.123.94...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 4 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 5 (After 19461ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 6 (connect to 18.235.123.94 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 7 (  Trying 54.162.111.120...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 8 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 9 (After 9726ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 10 (connect to 54.162.111.120 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 11 (  Trying 44.197.38.179...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 12 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 13 (After 4859ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 14 (connect to 44.197.38.179 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 15 (  Trying 52.54.94.64...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 16 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 18 (connect to 52.54.94.64 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 19 (  Trying 3.222.100.53...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 20 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 22 (connect to 3.222.100.53 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 23 (  Trying 3.231.191.83...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 24 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 26 (connect to 3.231.191.83 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 27 (  Trying 54.81.107.227...)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 28 (TCP_NODELAY set)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 30 (connect to 54.81.107.227 port 443 failed: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2025.08.04-09.47.25:523][939]LogHttp: Warning: 0000026B7BC72400: libcurl info message cache 32 (Closing connection 2)
+[2025.08.04-09.47.25:523][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.26:024][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.26:524][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.27:025][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.27:526][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.28:026][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.28:527][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.29:028][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.29:528][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.30:029][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.30:530][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.31:030][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.31:531][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.32:032][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.32:532][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.33:033][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.33:534][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.34:034][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.34:535][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.35:036][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.35:536][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.36:037][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.36:538][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.37:038][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.37:539][939]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9929278C-4709-6EF4-BE9A-429A3B9C4DC4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=25b364574f2c348f767357a854b35719%7C44a5037eb42945baa540b2e55b724ebd%7Cea3791cf-1ebc-4115-ad5e-a4b92b126695&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: request failed, libcurl error: 7 (Couldn't connect to server)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26af37d7ac0 [serially])
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 2 (  Trying 3.220.168.144...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 3 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 4 (connect to 3.220.168.144 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 5 (  Trying 18.235.123.94...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 6 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 7 (After 19484ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 8 (connect to 18.235.123.94 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 9 (  Trying 54.162.111.120...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 10 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 11 (After 9742ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 12 (connect to 54.162.111.120 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 13 (  Trying 44.197.38.179...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 14 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 15 (After 4867ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 16 (connect to 44.197.38.179 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 17 (  Trying 52.54.94.64...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 18 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 19 (After 2430ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 20 (connect to 52.54.94.64 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 21 (  Trying 3.222.100.53...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 22 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 23 (After 1211ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 24 (connect to 3.222.100.53 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 25 (  Trying 3.231.191.83...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 26 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 27 (After 601ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 28 (connect to 3.231.191.83 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 29 (  Trying 54.81.107.227...)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 30 (TCP_NODELAY set)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 31 (After 297ms connect time, move on!)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 32 (connect to 54.81.107.227 port 443 failed: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 33 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2025.08.04-09.47.38:040][939]LogHttp: Warning: 0000026B05F87900: libcurl info message cache 34 (Closing connection 3)
+[2025.08.04-09.47.38:058][939]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2025.08.04-09.47.38:058][939]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module Media (73)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2025.08.04-09.47.38:060][939]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (46)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (44)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (40)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module PlatformCrypto (38)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2025.08.04-09.47.38:061][939]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2025.08.04-09.47.38:063][939]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2025.08.04-09.47.38:063][939]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2025.08.04-09.47.38:063][939]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2025.08.04-09.47.38:063][939]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2025.08.04-09.47.38:063][939]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2025.08.04-09.47.38:063][939]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2025.08.04-09.47.38:064][939]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2025.08.04-09.47.38:064][939]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2025.08.04-09.47.38:076][939]LogD3D11RHI: Shutdown
+[2025.08.04-09.47.38:076][939]LogD3D11RHI: CleanupD3DDevice
+[2025.08.04-09.47.38:081][939]LogExit: Exiting.
+[2025.08.04-09.47.38:098][939]Log file closed, 08/04/25 11:47:38
